@@ -28,28 +28,28 @@
 "description": "Title: Opciones relacionadas al Pod."
 },
 "postOptionsTitle": {
-"message": "Postings",
-"description": "Title: Post related Options."
+"message": "Publicaciones",
+"description": "Title: Opciones relacionadas a publicaciones."
 },
 "notificationOptionsTitle": {
-"message": "Notifications",
-"description": "Title: Notification related Options."
+"message": "Notificaciones",
+"description": "Title: Opciones relacionadas a notificaciones."
 },
 "podOpt": {
 "message": "Pod-URL",
 "description": "Label: Pod-URL"
 },
 "choosePod": {
-"message": "Insert your Diaspora* pod.",
-"description": "Text: Choose your Diaspora* Pod url, or insert a new one:"
+"message": "Inserta tu pod de Diaspora*.",
+"description": "Text: Escoge el url de tu pod de Diaspora*, o inserta uno nuevo:"
 },
 "savePodOptions": {
-"message": "Save",
-"description": "Action: Save the Pod options."
+"message": "Guardar",
+"description": "Action: Guardar las opciones del Pod."
 },
 "setPodUrl": {
-"message": "Set your Diaspora* pod before use.",
-"description": "Alert: Set your Diaspora* Pod Url before use."
+"message": "Establece tu pod de Diaspora* antes de usar.",
+"description": "Alert: Establece la Url del pod de Diaspora* antes de usar."
 },
 "addMarkup": {
 "message": "Markup",
