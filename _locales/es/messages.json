@@ -53,55 +53,55 @@
 },
 "addMarkup": {
 "message": "Markup",
-"description": "Label: Use Markup to structure contents."
+"description": "Label: Usa Markup para estructurar el contenido."
 },
 "addMarkupHelp": {
-"message": "With Markup languages, elements like links and images can be displayed. <br> Which languages should be used?",
-"description": "Help: Use Markup to structure contents."
+"message": "Con el leguaje Markup, elementos como links e imagenes pueden ser visibles. <br> ¿Cuales lenguajes deberian ser usados?",
+"description": "Help: Usa markup para estructurar contenidos."
 },
 "addMarkdownOpt": {
 "message": "Markdown",
-"description": "Label: Use Markdown to publish contents."
+"description": "Label: Usa Markdown para publicar contenidos."
 },
 "addComment": {
 "message": "Comment",
-"description": "Label: Add a comment to the post."
+"description": "Label: Añade un comentario a el post."
 },
 "addCommentHelp": {
-"message": "Add your post with a personal comment or some tags.",
-"description": "Help: Add a comment to your posting."
+"message": "Añade un comentario personal o algunos tags a tu post.",
+"description": "Help: Añade un comentario a tu publicación."
 },
 "addTagsOpt": {
 "message": "#Tags",
-"description": "Label: Ask always to insert a tag when publishing a content."
+"description": "Label: Pide siempre insertar un tag cuando publicas un contenido."
 },
 "addMsgOpt": {
 "message": "Message",
-"description": "Label: Ask always to insert a message when publishing a content."
+"description": "Label: Pide siempre insertar un mensaje cuando publicas un contenido."
 },
 "addPageLink": {
 "message": "Link",
-"description": "Label: Insert a link to the page."
+"description": "Label: Inserta un link a la página."
 },
 "addPageLinkHelp": {
-"message": "Add a link of the page to your posting.",
-"description": "Help: Add a reference to the page in your post."
+"message": "Añade un link de la página a tu publicación.",
+"description": "Help: Añade una referencia a la página en tu post."
 },
 "addTitleOpt": {
-"message": "Insert page title",
-"description": "Label: Insert page title when publishing a content."
+"message": "Inserta el título de la página page title",
+"description": "Label: Inserta el título de la página cuando publicas un contenido."
 },
 "addUrlOpt": {
-"message": "Insert page URL",
-"description": "Label: Insert page URL when publishing a content."
+"message": "Inserta el URL de la página",
+"description": "Label: Inserta el URL de la página cuando publicas un contenido."
 },
 "addPreview": {
-"message": "Preview",
-"description": "Label: Insert media when sharing a page."
+"message": "Previsualizar",
+"description": "Label: Inserta media cuando compartes una página."
 },
 "addPreviewHelp": {
-"message": "Add a preview of the content to your posting.",
-"description": "Help: Insert media when sharing a page."
+"message": "Añade una previsualización del contenido de tu publicación.",
+"description": "Help: Inserta una media cuando compartes una página."
 },
 "addImageOpt": {
 "message": "Images",
