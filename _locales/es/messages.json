@@ -97,66 +97,66 @@
 },
 "addPreview": {
 "message": "Previsualizar",
-"description": "Label: Inserta media cuando compartes una página."
+"description": "Label: Inserta multimedia cuando compartes una página."
 },
 "addPreviewHelp": {
 "message": "Añade una previsualización del contenido de tu publicación.",
 "description": "Help: Inserta una media cuando compartes una página."
 },
 "addImageOpt": {
-"message": "Images",
-"description": "Label: Shows image selector prompt when publishing a content."
+"message": "Imagenes",
+"description": "Label: Muestra el cuadro de dialogo para seleccionar imagenes cuando publicas contenido."
 },
 "addYTOpt": {
 "message": "YouTube",
-"description": "Label: Insert youtube preview image when sharing a video."
+"description": "Label: Inserta la imagen de previsualización de youtube cuando compartes un video."
 },
 "addVMOpt": {
 "message": "Vimeo",
-"description": "Label: Insert vimeo preview image when sharing a video."
+"description": "Label: Inserta la imagen de previsualización de Vimeo cuando compartes un video."
 },
 "addMsg": {
-"message": "Add a message to your post\nor click Cancel.",
-"description": "Prompt: Add message or click Cancel."
+"message": "Agrega un mensaje a tu publicación o da click en Cancelar.",
+"description": "Prompt: Agrega mensaje o da click en Cancelar."
 },
 "addMsgText": {
-"message": "Insert your comment here.",
-"description": "Prompt: Add comment here."
+"message": "Inserta tu comentario aqui.",
+"description": "Prompt: Agrega comentario aqui."
 },
 "addTags": {
-"message": "Add tags to your post\nor click Cancel.",
-"description": "Prompt: Add tags or click Cancel."
+"message": "Agrega tags a tu publicación o da click en Cancelar.",
+"description": "Prompt: Agrega tags o da click en Cancelar."
 },
 "addTagsText": {
-"message": "Insert #tag here.",
-"description": "Prompt: Add #tags here."
+"message": "Inserta #tag aqui.",
+"description": "Prompt: Agrega #tags aqui."
 },
 "shortOpt": {
 "message": "URL Shortener",
-"description": "Label: Select Short URL service:"
+"description": "Label: Selecciona un servicio de abreviación de URL:"
 },
 "shortOptHelp": {
-"message": "Shorten the URLs in your posting.",
-"description": "Help: Select Short URL service:"
+"message": "Abrevia los URLs en tu publicación.",
+"description": "Help: Selecciona el servicio de abreviación de URL:"
 },
 "enableNotify": {
-"message": "Enable notifications",
-"description": "Label: Enable notifications option"
+"message": "Habilitar notificaciones",
+"description": "Label: Opción de habilitar notificaciones"
 },
 "checkEvery": {
-"message": "Check every ",
-"description": "Label: Check every"
+"message": "Checa cada ",
+"description": "Label: Checa cada"
 },
 "minutes": {
-"message": "minutes",
-"description": "Label: Minutes"
+"message": "minutos",
+"description": "Label: Minutos"
 },
 "githubLink": {
-"message": "GitHub project",
-"description": "Label: Github Project"
+"message": "Proyecto de Github",
+"description": "Label: Proyecto Github"
 },
 "extProjectAbout": {
-"message": "This is free software, take part on the developement at ",
-"description": "Text: Description and link to the Github Project"
+"message": "Este es software libre, forma parte de su desarrollo en ",
+"description": "Text: Descripción y liga del Proyecto en Github"
 }
 }
