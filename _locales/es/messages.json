@@ -1,0 +1,162 @@
+{
+"extDescription": {
+"message": "Comparte tus paginas favortias con tus amigos de diaspora* y recibir notificaciones directamente en tu navegador.",
+"description": "Text: descripción de la extensiónn."
+},
+"extAction": {
+"message": "Publica esta página en Diaspora",
+"description": "Hover: Acción de la extensión cuando se flota sobre el icono.."
+},
+"localStorage": {
+"message": "Almacenamiento local es requerido para cambiar el url del pod.",
+"description": "Alert: Almacenamiento local no soportado"
+},
+"optionsTitle": {
+"message": "Opciones",
+"description": "Title: Opciones para la extensión Diaspora* Publisher"
+},
+"aboutTitle": {
+"message": "Acerca de la extensión",
+"description": "Title: Acerca de la extensión Diaspora* Publisher"
+},
+"urlSaved": {
+"message": "Url del Pod guardada!",
+"description": "Alert: Notificación en la pagina de opciones"
+},
+"podOptionsTitle": {
+"message": "Pod",
+"description": "Title: Opciones relacionadas al Pod."
+},
+"postOptionsTitle": {
+"message": "Publicaciones",
+"description": "Title: Opciones relacionadas a publicaciones."
+},
+"notificationOptionsTitle": {
+"message": "Notificaciones",
+"description": "Title: Opciones relacionadas a notificaciones."
+},
+"podOpt": {
+"message": "Pod-URL",
+"description": "Label: Pod-URL"
+},
+"choosePod": {
+"message": "Inserta tu pod de Diaspora*.",
+"description": "Text: Escoge el url de tu pod de Diaspora*, o inserta uno nuevo:"
+},
+"savePodOptions": {
+"message": "Guardar",
+"description": "Action: Guardar las opciones del Pod."
+},
+"setPodUrl": {
+"message": "Establece tu pod de Diaspora* antes de usar.",
+"description": "Alert: Establece la Url del pod de Diaspora* antes de usar."
+},
+"addMarkup": {
+"message": "Markup",
+"description": "Label: Usa Markup para estructurar el contenido."
+},
+"addMarkupHelp": {
+"message": "Con el leguaje Markup, elementos como links e imagenes pueden ser visibles. <br> ¿Cuales lenguajes deberian ser usados?",
+"description": "Help: Usa markup para estructurar contenidos."
+},
+"addMarkdownOpt": {
+"message": "Markdown",
+"description": "Label: Usa Markdown para publicar contenidos."
+},
+"addComment": {
+"message": "Comment",
+"description": "Label: Añade un comentario a el post."
+},
+"addCommentHelp": {
+"message": "Añade un comentario personal o algunos tags a tu post.",
+"description": "Help: Añade un comentario a tu publicación."
+},
+"addTagsOpt": {
+"message": "#Tags",
+"description": "Label: Pide siempre insertar un tag cuando publicas un contenido."
+},
+"addMsgOpt": {
+"message": "Message",
+"description": "Label: Pide siempre insertar un mensaje cuando publicas un contenido."
+},
+"addPageLink": {
+"message": "Link",
+"description": "Label: Inserta un link a la página."
+},
+"addPageLinkHelp": {
+"message": "Añade un link de la página a tu publicación.",
+"description": "Help: Añade una referencia a la página en tu post."
+},
+"addTitleOpt": {
+"message": "Inserta el título de la página page title",
+"description": "Label: Inserta el título de la página cuando publicas un contenido."
+},
+"addUrlOpt": {
+"message": "Inserta el URL de la página",
+"description": "Label: Inserta el URL de la página cuando publicas un contenido."
+},
+"addPreview": {
+"message": "Previsualizar",
+"description": "Label: Inserta media cuando compartes una página."
+},
+"addPreviewHelp": {
+"message": "Añade una previsualización del contenido de tu publicación.",
+"description": "Help: Inserta una media cuando compartes una página."
+},
+"addImageOpt": {
+"message": "Images",
+"description": "Label: Shows image selector prompt when publishing a content."
+},
+"addYTOpt": {
+"message": "YouTube",
+"description": "Label: Insert youtube preview image when sharing a video."
+},
+"addVMOpt": {
+"message": "Vimeo",
+"description": "Label: Insert vimeo preview image when sharing a video."
+},
+"addMsg": {
+"message": "Add a message to your post\nor click Cancel.",
+"description": "Prompt: Add message or click Cancel."
+},
+"addMsgText": {
+"message": "Insert your comment here.",
+"description": "Prompt: Add comment here."
+},
+"addTags": {
+"message": "Add tags to your post\nor click Cancel.",
+"description": "Prompt: Add tags or click Cancel."
+},
+"addTagsText": {
+"message": "Insert #tag here.",
+"description": "Prompt: Add #tags here."
+},
+"shortOpt": {
+"message": "URL Shortener",
+"description": "Label: Select Short URL service:"
+},
+"shortOptHelp": {
+"message": "Shorten the URLs in your posting.",
+"description": "Help: Select Short URL service:"
+},
+"enableNotify": {
+"message": "Enable notifications",
+"description": "Label: Enable notifications option"
+},
+"checkEvery": {
+"message": "Check every ",
+"description": "Label: Check every"
+},
+"minutes": {
+"message": "minutes",
+"description": "Label: Minutes"
+},
+"githubLink": {
+"message": "GitHub project",
+"description": "Label: Github Project"
+},
+"extProjectAbout": {
+"message": "This is free software, take part on the developement at ",
+"description": "Text: Description and link to the Github Project"
+}
+}
